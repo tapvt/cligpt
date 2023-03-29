@@ -31,4 +31,4 @@ You will be asked to confirm if you want to run the command or not, no need to c
 
 ## Thanks for being here
 
-If you enjoyed this, you might like [GitGPT](https://github.com/Luanf/gitgpt) - to get suggestions for Git, altough CliGPT can work with Git commands as well.
+If you enjoyed this, you might like [GitGPT](https://github.com/Luanf/gitgpt) - to get suggestions for Git, although CliGPT can work with Git commands as well.
